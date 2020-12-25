@@ -1,4 +1,4 @@
-package com.example.permissionsexample
+package com.customdialog
 
 import org.junit.Test
 

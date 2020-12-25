@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PermissionsExample</string>
+    <string name="app_name">CustomDialog</string>
+    <string name="action_settings">Settings</string>
 </resources>
